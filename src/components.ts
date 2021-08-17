@@ -1,7 +1,7 @@
 import Vue from "vue";
 
 // 引入组件
-import Table from "../packages/table/index";
+import Table from "../packages/common-layout/index";
 
 // eslint-disable-next-line @typescript-eslint/ban-ts-ignore
 // @ts-ignore
