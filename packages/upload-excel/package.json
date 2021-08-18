@@ -1,6 +1,6 @@
 {
   "name": "upload-excel",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "jsq <1647013149@qq.com>",
   "homepage": "https://github.com/JSQ001/vue2-el-ui#readme",
@@ -13,7 +13,6 @@
   "files": [
     "lib"
   ],
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JSQ001/vue2-el-ui.git"
